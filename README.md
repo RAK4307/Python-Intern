@@ -27,11 +27,9 @@ A simple and effective to-do list application to help manage tasks. Key features
 
       git clone https://github.com/RAK4307/Python-Intern.git
 
-
       cd Python-Intern
 
 2.Run the To-Do List app:
-
 
       python todo.py
 
