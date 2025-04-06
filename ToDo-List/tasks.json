@@ -1,0 +1,14 @@
+[
+    {
+        "title": "buy groceries",
+        "description": "purchase milk,eggs",
+        "category": "personal",
+        "completed": false
+    },
+    {
+        "title": "call mom",
+        "description": "check in on mom and see how she'sdoing",
+        "category": "urgent",
+        "completed": true
+    }
+]
